@@ -1,0 +1,8 @@
+{
+  "name": "ExpressRun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LiuYiBest/ExpressRun.git",
+  "author": "liuyidiao <1070692044@qq.com>",
+  "license": "MIT"
+}
